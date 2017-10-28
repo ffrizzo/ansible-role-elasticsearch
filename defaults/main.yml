@@ -1,5 +1,11 @@
 ---
+
+elasticsearch_major_version: "5.x"
+elasticsearch_version: ""
+
 elasticsearch_network_host: localhost
 elasticsearch_http_port: 9200
 elasticsearch_script_inline: true
 elasticsearch_script_indexed: true
+
+elasticsearch_install_plugins: []
